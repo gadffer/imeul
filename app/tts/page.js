@@ -1,8 +1,8 @@
-export default function Home() {
+export default function TTS() {
   return (
     <div>
-      <h1>欢迎来到我的 Next.js 应用！tts</h1>
-      <p>这是一个最简可行的示例。</p>
+      <h1>欢迎来到 TTS 页面！</h1>
+      <p>这是一个示例页面。</p>
     </div>
   );
 }
