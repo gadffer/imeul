@@ -1,0 +1,9 @@
+/* globals.css */
+
+/* 设置全局背景颜色为深灰色 */
+body {
+  background-color: #555; /* 深灰色 */
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
